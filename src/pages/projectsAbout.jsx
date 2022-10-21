@@ -15,7 +15,8 @@ const ProjectIs = (props) => (
                     name="Monday"
                     whoAmI="Python, sqlite, PyTelegramBotApi"
                 >
-                    Первый проект на React
+                    Небольшой личный телеграм бот
+
                 </MainInfo>
                 <Description link={false} text={true} name='Об проекте'>
                     Это личный телеграм бот с курсами валют, погодой и конвертором. Мой первый масштабный
@@ -29,7 +30,8 @@ const ProjectIs = (props) => (
                     name="Мой сайт"
                     whoAmI="HTML, CSS JavaScript, React"
                 >
-                    Небольшой личный телеграм бот
+                    Первый проект на React
+
                 </MainInfo>
                 <Description link={false} text={true} name='Об проекте'>
                 Это мой первый проект на React. Так же это сайт является моей визиткой.
