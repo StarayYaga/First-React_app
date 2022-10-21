@@ -1,0 +1,43 @@
+.mainInfo {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+.mainInfo img {
+    height: 16vh;
+    margin-left: 6px;
+    border-radius: 30px;
+    border: 3px solid #85CDCA;
+    
+}
+
+.name, .prof, .littleAbout, .btnTo {
+    margin: 8px 6px;
+    background-color: #6fc8f5;
+    border-radius: 20px;
+    padding: 1vh;
+    border: 2px solid #37bcff;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+@media (max-width:800px){
+    .name, .prof, .littleAbout, .btnTo{
+        margin: 10px 30px;
+        margin-left: 5px;
+        padding: 0.5vh;
+    }
+    .mainInfo img{
+        height: 13vh;
+    }
+}
+
+@media (max-width:400px){
+    .mainInfo img{
+        height: 11vh;
+    }
+}
+

@@ -1,0 +1,12 @@
+.Link img{
+    width: 50px;
+    margin: 10px;
+    
+}
+
+@media (max-width:350px){
+    .Link img{
+        width: 40px;
+        margin: 6px;
+    }
+}

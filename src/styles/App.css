@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    background: url('https://images.wallpaperscraft.ru/image/single/ozero_gory_derevia_159678_1920x1080.jpg');
+    background-size: auto;
+}
+
+.App {
+    /* background-color: #FBEEC1 ; */
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: center;
+    color: #5D5C61;
+}

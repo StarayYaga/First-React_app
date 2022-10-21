@@ -1,0 +1,16 @@
+.links {
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+.descriptionText {
+    margin: 20px 20px;
+    background-color: #6fc8f5;
+    border-radius: 20px;
+    padding: 1vh;
+    border: 2px solid #37bcff;
+    font-weight: bold;
+    font-size: 13px;
+}
